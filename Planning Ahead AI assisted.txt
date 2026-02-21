@@ -1,4 +1,6 @@
-# Planning Ahead: AI Assisted Version 2 and Future Roadmap
+# Planning Ahead: AI Assisted Version 2 and Future Roadmap 
+# FEB 21 2026
+# Jesus Rodriguez 
 
 ## Version 2 Features:
 1. **Enhanced User Interaction**  
